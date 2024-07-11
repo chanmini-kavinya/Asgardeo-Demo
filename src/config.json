@@ -1,7 +1,7 @@
 {
     "clientID": "OBwp8dbKEcmIjSdeWBrse9DTGr8a",
     "baseUrl": "https://api.asgardeo.io/t/orguvoyh",
-    "signInRedirectURL": "https://localhost:3000",
-    "signOutRedirectURL": "https://localhost:3000",
+    "signInRedirectURL": "https://862494dd-ce2c-4490-9dc6-8a0c4801de99.e1-us-east-azure.choreoapps.dev",
+    "signOutRedirectURL": "https://862494dd-ce2c-4490-9dc6-8a0c4801de99.e1-us-east-azure.choreoapps.dev",
     "scope": ["profile"]
 }
